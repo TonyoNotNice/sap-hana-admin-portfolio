@@ -1,6 +1,3 @@
-# sap-hana-admin-portfolio
-Hands-on SAP HANA Cloud administration and monitoring lab
-
 # SAP HANA Administration & Monitoring Portfolio
 
 Hands-on project demonstrating practical SAP HANA Cloud administration skills — provisioning, user management, security, monitoring, and troubleshooting.
